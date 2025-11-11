@@ -14,7 +14,7 @@ void main(){
   String name = "Kidloc";
   print("The length of the name is ${name.length}");
 
-  //toUpperCase is a string method
+  //toUpperCasee is a string method
   String upperName = name.toUpperCase();
   print("The name in uppercase is ${upperName}");
 
